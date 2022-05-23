@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rrochati
 - 👀 I’m interested in full stack programming
-- 🌱 I’m currently learning Node.JS and Python
+- 🌱 I’m currently learning JavaScript, Node.JS and Python
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me rrochati@gmail.com
 
